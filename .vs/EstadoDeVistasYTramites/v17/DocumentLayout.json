@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\tramitevista.service\\estadodevistasytramites.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|solutionrelative:tramitevista.service\\estadodevistasytramites.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramites.model\\estadodevistasytramites.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|solutionrelative:estadodevistasytramites.model\\estadodevistasytramites.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDB868-958B-4BB4-AFA7-4973CE75234C}|EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramitesapi\\estadodevistasytramites.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89FDB868-958B-4BB4-AFA7-4973CE75234C}|EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj|solutionrelative:estadodevistasytramitesapi\\estadodevistasytramites.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDB868-958B-4BB4-AFA7-4973CE75234C}|EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramitesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FDB868-958B-4BB4-AFA7-4973CE75234C}|EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj|solutionrelative:estadodevistasytramitesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramites.model\\tramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|solutionrelative:estadodevistasytramites.model\\tramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\tramitevista.service\\connected services\\servicereference\\servicereference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|solutionrelative:tramitevista.service\\connected services\\servicereference\\servicereference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramites.model\\entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|solutionrelative:estadodevistasytramites.model\\entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDB868-958B-4BB4-AFA7-4973CE75234C}|EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramitesapi\\controllers\\tramitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FDB868-958B-4BB4-AFA7-4973CE75234C}|EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj|solutionrelative:estadodevistasytramitesapi\\controllers\\tramitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramites.model\\tramitedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|solutionrelative:estadodevistasytramites.model\\tramitedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramites.model\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|solutionrelative:estadodevistasytramites.model\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\tramitevista.service\\implementation\\tramiteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|solutionrelative:tramitevista.service\\implementation\\tramiteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\tramitevista.service\\implementation\\vistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|solutionrelative:tramitevista.service\\implementation\\vistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDB868-958B-4BB4-AFA7-4973CE75234C}|EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramitesapi\\controllers\\vistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FDB868-958B-4BB4-AFA7-4973CE75234C}|EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj|solutionrelative:estadodevistasytramitesapi\\controllers\\vistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\tramitevista.service\\implementation\\entidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|solutionrelative:tramitevista.service\\implementation\\entidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\tramitevista.service\\contract\\ivistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|solutionrelative:tramitevista.service\\contract\\ivistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\tramitevista.service\\contract\\itramiteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|solutionrelative:tramitevista.service\\contract\\itramiteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramites.model\\entidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|solutionrelative:estadodevistasytramites.model\\entidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramites.model\\vistadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|solutionrelative:estadodevistasytramites.model\\vistadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramites.model\\vista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E2DA98-A30F-48A6-81B6-7EAC10710403}|EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj|solutionrelative:estadodevistasytramites.model\\vista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\tramitevista.service\\connected services\\servicereference\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CD6D935-9327-457B-A455-6B75DC2FB42B}|TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj|solutionrelative:tramitevista.service\\connected services\\servicereference\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDB868-958B-4BB4-AFA7-4973CE75234C}|EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj|c:\\users\\jguerrer\\source\\repos\\estadodevistasytramitesapi\\estadodevistasytramitesapi\\connected services\\servicereference\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89FDB868-958B-4BB4-AFA7-4973CE75234C}|EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj|solutionrelative:estadodevistasytramitesapi\\connected services\\servicereference\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TramiteDto.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\TramiteDto.cs",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramites.Model\\TramiteDto.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\TramiteDto.cs",
+              "RelativeToolTip": "EstadoDeVistasYTramites.Model\\TramiteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:07:52.41Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TramiteService.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Implementation\\TramiteService.cs",
+              "RelativeDocumentMoniker": "TramiteVista.Service\\Implementation\\TramiteService.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Implementation\\TramiteService.cs",
+              "RelativeToolTip": "TramiteVista.Service\\Implementation\\TramiteService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAlwDoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:50:22.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramitesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramitesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramitesAPI\\Program.cs",
+              "RelativeToolTip": "EstadoDeVistasYTramitesAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:22:38.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstadoDeVistasyTramites.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj",
+              "RelativeDocumentMoniker": "TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj",
+              "RelativeToolTip": "TramiteVista.Service\\EstadoDeVistasyTramites.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T17:37:40.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VistaDto.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\VistaDto.cs",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramites.Model\\VistaDto.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\VistaDto.cs",
+              "RelativeToolTip": "EstadoDeVistasYTramites.Model\\VistaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:15:01.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstadoDeVistasYTramites.API.csproj",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj",
+              "RelativeToolTip": "EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T12:58:31.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstadoDeVistasYTramites.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj",
+              "RelativeToolTip": "EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T17:37:41.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntidadService.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Implementation\\EntidadService.cs",
+              "RelativeDocumentMoniker": "TramiteVista.Service\\Implementation\\EntidadService.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Implementation\\EntidadService.cs",
+              "RelativeToolTip": "TramiteVista.Service\\Implementation\\EntidadService.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:06:33.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramites.Model\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\ResponseDto.cs",
+              "RelativeToolTip": "EstadoDeVistasYTramites.Model\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:56:40.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVistaService.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Contract\\IVistaService.cs",
+              "RelativeDocumentMoniker": "TramiteVista.Service\\Contract\\IVistaService.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Contract\\IVistaService.cs",
+              "RelativeToolTip": "TramiteVista.Service\\Contract\\IVistaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:40:00.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tramite.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\Tramite.cs",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramites.Model\\Tramite.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\Tramite.cs",
+              "RelativeToolTip": "EstadoDeVistasYTramites.Model\\Tramite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:45:13.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Vista.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\Vista.cs",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramites.Model\\Vista.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\Vista.cs",
+              "RelativeToolTip": "EstadoDeVistasYTramites.Model\\Vista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:39:54.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entidad.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\Entidad.cs",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramites.Model\\Entidad.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\Entidad.cs",
+              "RelativeToolTip": "EstadoDeVistasYTramites.Model\\Entidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:21:42.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceReference.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Connected Services\\ServiceReference\\ServiceReference.cs",
+              "RelativeDocumentMoniker": "TramiteVista.Service\\Connected Services\\ServiceReference\\ServiceReference.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Connected Services\\ServiceReference\\ServiceReference.cs",
+              "RelativeToolTip": "TramiteVista.Service\\Connected Services\\ServiceReference\\ServiceReference.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwFgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:22:02.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VistaController.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramitesAPI\\Controllers\\VistaController.cs",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramitesAPI\\Controllers\\VistaController.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramitesAPI\\Controllers\\VistaController.cs",
+              "RelativeToolTip": "EstadoDeVistasYTramitesAPI\\Controllers\\VistaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:04:10.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TramiteController.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramitesAPI\\Controllers\\TramiteController.cs",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramitesAPI\\Controllers\\TramiteController.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramitesAPI\\Controllers\\TramiteController.cs",
+              "RelativeToolTip": "EstadoDeVistasYTramitesAPI\\Controllers\\TramiteController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBcAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:03:41.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VistaService.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Implementation\\VistaService.cs",
+              "RelativeDocumentMoniker": "TramiteVista.Service\\Implementation\\VistaService.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Implementation\\VistaService.cs",
+              "RelativeToolTip": "TramiteVista.Service\\Implementation\\VistaService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:40:41.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntidadDto.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\EntidadDto.cs",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramites.Model\\EntidadDto.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\EntidadDto.cs",
+              "RelativeToolTip": "EstadoDeVistasYTramites.Model\\EntidadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:44:13.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITramiteService.cs",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Contract\\ITramiteService.cs",
+              "RelativeDocumentMoniker": "TramiteVista.Service\\Contract\\ITramiteService.cs",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Contract\\ITramiteService.cs",
+              "RelativeToolTip": "TramiteVista.Service\\Contract\\ITramiteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:50:53.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Connected Services\\ServiceReference\\ConnectedService.json",
+              "RelativeDocumentMoniker": "TramiteVista.Service\\Connected Services\\ServiceReference\\ConnectedService.json",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\TramiteVista.Service\\Connected Services\\ServiceReference\\ConnectedService.json",
+              "RelativeToolTip": "TramiteVista.Service\\Connected Services\\ServiceReference\\ConnectedService.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T16:20:37.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramitesAPI\\Connected Services\\ServiceReference\\ConnectedService.json",
+              "RelativeDocumentMoniker": "EstadoDeVistasYTramitesAPI\\Connected Services\\ServiceReference\\ConnectedService.json",
+              "ToolTip": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramitesAPI\\Connected Services\\ServiceReference\\ConnectedService.json",
+              "RelativeToolTip": "EstadoDeVistasYTramitesAPI\\Connected Services\\ServiceReference\\ConnectedService.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T13:02:43.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
