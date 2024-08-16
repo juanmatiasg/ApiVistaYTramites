@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstadoDeVistasYTramites.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f068f552107cfc9085a14f2a75f10107ade43780")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76de12e1c6d1dbe93be385b3139012753446df08")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstadoDeVistasYTramites.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstadoDeVistasYTramites.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

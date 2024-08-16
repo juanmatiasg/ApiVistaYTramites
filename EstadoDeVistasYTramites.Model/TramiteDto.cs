@@ -15,7 +15,7 @@
         public bool TieneVista { get; set; }
 
     }
-
+ 
 
 
 }

@@ -5,9 +5,9 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstadoDeVistasYTramites.API", "EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.API.csproj", "{89FDB868-958B-4BB4-AFA7-4973CE75234C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstadoDeVistasyTramites.Service", "TramiteVista.Service\EstadoDeVistasyTramites.Service.csproj", "{3CD6D935-9327-457B-A455-6B75DC2FB42B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstadoDeVistasyTramites.Service", "TramiteVista.Service\EstadoDeVistasyTramites.Service.csproj", "{3CD6D935-9327-457B-A455-6B75DC2FB42B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstadoDeVistasYTramites.Model", "EstadoDeVistasYTramites.Model\EstadoDeVistasYTramites.Model.csproj", "{E4E2DA98-A30F-48A6-81B6-7EAC10710403}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstadoDeVistasYTramites.Model", "EstadoDeVistasYTramites.Model\EstadoDeVistasYTramites.Model.csproj", "{E4E2DA98-A30F-48A6-81B6-7EAC10710403}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
