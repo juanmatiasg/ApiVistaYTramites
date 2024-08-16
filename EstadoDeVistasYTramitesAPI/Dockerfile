@@ -1,29 +1,26 @@
-#See https://aka.ms/customizecontainer to learn how to customize your debug container and how Visual Studio uses this Dockerfile to build your images for faster debugging.
+# Usa una imagen base de .NET SDK
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 
-#Depending on the operating system of the host machines(s) that will build or run the containers, the image specified in the FROM statement may need to be changed.
-#For more information, please see https://aka.ms/containercompat
-
-FROM mcr.microsoft.com/dotnet/aspnet:8.0-nanoserver-1809 AS base
+# Establece el directorio de trabajo
 WORKDIR /app
-EXPOSE 8080
-EXPOSE 8081
 
-FROM mcr.microsoft.com/dotnet/sdk:8.0-nanoserver-1809 AS build
-ARG BUILD_CONFIGURATION=Release
-WORKDIR /src
-COPY ["EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.API.csproj", "EstadoDeVistasYTramitesAPI/"]
-COPY ["EstadoDeVistasYTramites.Model/EstadoDeVistasYTramites.Model.csproj", "EstadoDeVistasYTramites.Model/"]
-COPY ["TramiteVista.Service/EstadoDeVistasyTramites.Service.csproj", "TramiteVista.Service/"]
-RUN dotnet restore "./EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.API.csproj"
-COPY . .
-WORKDIR "/src/EstadoDeVistasYTramitesAPI"
-RUN dotnet build "./EstadoDeVistasYTramites.API.csproj" -c %BUILD_CONFIGURATION% -o /app/build
 
-FROM build AS publish
-ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "./EstadoDeVistasYTramites.API.csproj" -c %BUILD_CONFIGURATION% -o /app/publish /p:UseAppHost=false
 
-FROM base AS final
+# Copia el resto de los archivos y compila la aplicación
+COPY . ./
+RUN dotnet publish -c Release -o out
+
+# Usa una imagen base de .NET Runtime para ejecutar la aplicación
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+
+# Establece el directorio de trabajo
 WORKDIR /app
-COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "EstadoDeVistasYTramites.API.dll"]
+
+# Copia los archivos publicados desde la etapa de construcción
+COPY --from=build /app/out .
+
+# Expone el puerto en el que la aplicación escuchará
+EXPOSE 80
+
+# Ejecuta la aplicación
+ENTRYPOINT ["dotnet", "EstadoDeVistasYTramitesAPI.dll"]

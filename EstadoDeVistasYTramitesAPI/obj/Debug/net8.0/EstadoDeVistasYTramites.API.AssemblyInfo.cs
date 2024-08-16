@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstadoDeVistasYTramites.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76de12e1c6d1dbe93be385b3139012753446df08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7897d94a9fdc4b8082d166c00307a65feb6747c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstadoDeVistasYTramites.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstadoDeVistasYTramites.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
