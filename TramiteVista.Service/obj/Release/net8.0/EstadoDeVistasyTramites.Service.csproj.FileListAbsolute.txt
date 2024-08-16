@@ -1,0 +1,17 @@
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Release\net8.0\Connected Services\ServiceReference\ConnectedService.json
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Release\net8.0\EstadoDeVistasyTramites.Service.deps.json
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Release\net8.0\EstadoDeVistasyTramites.Service.dll
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Release\net8.0\EstadoDeVistasyTramites.Service.pdb
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Release\net8.0\EstadoDeVistasYTramites.Model.dll
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Release\net8.0\EstadoDeVistasYTramites.Model.pdb
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\EstadoDeVistasyTramites.Service.csproj.AssemblyReference.cache
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\EstadoDeVistasyTramites.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\EstadoDeVistasyTramites.Service.AssemblyInfoInputs.cache
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\EstadoDeVistasyTramites.Service.AssemblyInfo.cs
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\EstadoDeVistasyTramites.Service.csproj.CoreCompileInputs.cache
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\EstadoDeVistasyTramites.Service.sourcelink.json
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\EstadoDe.6226052F.Up2Date
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\EstadoDeVistasyTramites.Service.dll
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\refint\EstadoDeVistasyTramites.Service.dll
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\EstadoDeVistasyTramites.Service.pdb
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Release\net8.0\ref\EstadoDeVistasyTramites.Service.dll

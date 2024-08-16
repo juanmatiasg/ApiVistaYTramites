@@ -16,6 +16,7 @@ C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramite
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.AssemblyInfoInputs.cache
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.AssemblyInfo.cs
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.csproj.CoreCompileInputs.cache
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.sourcelink.json
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.dll
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\refint\EstadoDeVistasYTramites.Model.dll
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.pdb

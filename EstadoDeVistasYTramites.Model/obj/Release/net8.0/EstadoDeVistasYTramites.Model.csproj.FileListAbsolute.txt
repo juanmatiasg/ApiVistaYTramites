@@ -1,0 +1,12 @@
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Release\net8.0\EstadoDeVistasYTramites.Model.deps.json
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Release\net8.0\EstadoDeVistasYTramites.Model.dll
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Release\net8.0\EstadoDeVistasYTramites.Model.pdb
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Release\net8.0\EstadoDeVistasYTramites.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Release\net8.0\EstadoDeVistasYTramites.Model.AssemblyInfoInputs.cache
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Release\net8.0\EstadoDeVistasYTramites.Model.AssemblyInfo.cs
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Release\net8.0\EstadoDeVistasYTramites.Model.csproj.CoreCompileInputs.cache
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Release\net8.0\EstadoDeVistasYTramites.Model.sourcelink.json
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Release\net8.0\EstadoDeVistasYTramites.Model.dll
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Release\net8.0\refint\EstadoDeVistasYTramites.Model.dll
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Release\net8.0\EstadoDeVistasYTramites.Model.pdb
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Release\net8.0\ref\EstadoDeVistasYTramites.Model.dll

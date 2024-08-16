@@ -214,6 +214,7 @@ C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramite
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\obj\Debug\net8.0\EstadoDeVistasYTramites.API.csproj.CoreCompileInputs.cache
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\obj\Debug\net8.0\EstadoDeVistasYTramites.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\obj\Debug\net8.0\EstadoDeVistasYTramites.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\obj\Debug\net8.0\EstadoDeVistasYTramites.API.sourcelink.json
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\obj\Debug\net8.0\staticwebassets\msbuild.EstadoDeVistasYTramites.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -228,3 +229,4 @@ C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramite
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\obj\Debug\net8.0\EstadoDeVistasYTramites.API.pdb
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\obj\Debug\net8.0\EstadoDeVistasYTramites.API.genruntimeconfig.cache
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\obj\Debug\net8.0\ref\EstadoDeVistasYTramites.API.dll
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\bin\Debug\net8.0\ServiceReference\ConnectedService.json

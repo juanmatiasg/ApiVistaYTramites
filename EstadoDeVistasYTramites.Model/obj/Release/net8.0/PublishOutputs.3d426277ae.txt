@@ -1,0 +1,3 @@
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\out\EstadoDeVistasYTramites.Model.dll
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\out\EstadoDeVistasYTramites.Model.deps.json
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\out\EstadoDeVistasYTramites.Model.pdb

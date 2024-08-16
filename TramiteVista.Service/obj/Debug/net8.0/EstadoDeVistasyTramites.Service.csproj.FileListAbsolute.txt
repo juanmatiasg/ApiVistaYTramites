@@ -25,6 +25,7 @@ C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\o
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.AssemblyInfoInputs.cache
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.AssemblyInfo.cs
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.csproj.CoreCompileInputs.cache
+C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.sourcelink.json
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDe.6226052F.Up2Date
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.dll
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\refint\EstadoDeVistasyTramites.Service.dll
