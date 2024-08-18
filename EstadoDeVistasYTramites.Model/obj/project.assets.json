@@ -8,27 +8,25 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jguerrer\\.nuget\\packages\\": {}
+    "/Users/juanguerrero/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj",
+      "projectUniqueName": "/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/EstadoDeVistasYTramites.Model.csproj",
       "projectName": "EstadoDeVistasYTramites.Model",
-      "projectPath": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\EstadoDeVistasYTramites.Model.csproj",
-      "packagesPath": "C:\\Users\\jguerrer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jguerrer\\source\\repos\\EstadoDeVistasYTramitesAPI\\EstadoDeVistasYTramites.Model\\obj\\",
+      "projectPath": "/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/EstadoDeVistasYTramites.Model.csproj",
+      "packagesPath": "/Users/juanguerrero/.nuget/packages/",
+      "outputPath": "/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jguerrer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/juanguerrero/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

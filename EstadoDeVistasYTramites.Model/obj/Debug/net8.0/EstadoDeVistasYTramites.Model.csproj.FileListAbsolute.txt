@@ -1,23 +1,35 @@
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.deps.json
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.dll
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.pdb
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.GeneratedMSBuildEditorConfig.editorconfig
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.AssemblyInfoInputs.cache
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.AssemblyInfo.cs
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.csproj.CoreCompileInputs.cache
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.dll
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\refint\EstadoDeVistasYTramites.Model.dll
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.pdb
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\ref\EstadoDeVistasYTramites.Model.dll
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.deps.json
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.dll
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.pdb
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.AssemblyInfoInputs.cache
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.AssemblyInfo.cs
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.csproj.CoreCompileInputs.cache
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.sourcelink.json
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.dll
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\refint\EstadoDeVistasYTramites.Model.dll
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\EstadoDeVistasYTramites.Model.pdb
-C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramites.Model\obj\Debug\net8.0\ref\EstadoDeVistasYTramites.Model.dll
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.deps.json
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.dll
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.pdb
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.AssemblyInfoInputs.cache
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.AssemblyInfo.cs
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.csproj.CoreCompileInputs.cache
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.dll
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/refint/EstadoDeVistasYTramites.Model.dll
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.pdb
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/ref/EstadoDeVistasYTramites.Model.dll
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.deps.json
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.dll
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.pdb
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.AssemblyInfoInputs.cache
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.AssemblyInfo.cs
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.csproj.CoreCompileInputs.cache
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.sourcelink.json
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.dll
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/refint/EstadoDeVistasYTramites.Model.dll
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.pdb
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/ref/EstadoDeVistasYTramites.Model.dll
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.deps.json
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.dll
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.pdb
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.AssemblyInfoInputs.cache
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.AssemblyInfo.cs
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.csproj.CoreCompileInputs.cache
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.sourcelink.json
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.dll
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/refint/EstadoDeVistasYTramites.Model.dll
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/EstadoDeVistasYTramites.Model.pdb
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/EstadoDeVistasYTramites.Model/obj/Debug/net8.0/ref/EstadoDeVistasYTramites.Model.dll
