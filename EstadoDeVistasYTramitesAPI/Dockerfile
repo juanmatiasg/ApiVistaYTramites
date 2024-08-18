@@ -30,4 +30,4 @@ COPY --from=build /app/out .
 EXPOSE 80
 
 # Ejecuta la aplicación
-ENTRYPOINT ["dotnet", "EstadoDeVistasYTramitesAPI.dll"]
+ENTRYPOINT ["dotnet", "EstadoDeVistasYTramites.API.dll"]
