@@ -7,8 +7,7 @@ WORKDIR /app
 # Copia todo el contenido del proyecto al contenedor
 COPY . .
 
-# Restaura las dependencias
-RUN dotnet restore EstadoDeVistasYTramites.sln
+
 
 # Compila y publica la aplicación
 RUN dotnet publish EstadoDeVistasYTramites.sln -c Release -o out
@@ -26,4 +25,4 @@ COPY --from=build /app/out .
 EXPOSE 80
 
 # Define el punto de entrada para ejecutar la aplicación
-ENTRYPOINT ["dotnet", "EstadoDeVistasYTramites.API.dll"]
+ENTRYPOINT ["dotnet", "EstadoDeVistasYTramitesAPI.dll"]
