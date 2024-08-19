@@ -1,19 +1,53 @@
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\Connected Services\ServiceReference\ConnectedService.json
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasyTramites.Service.deps.json
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasyTramites.Service.dll
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasyTramites.Service.pdb
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.dll
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasYTramites.Model.pdb
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.csproj.AssemblyReference.cache
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.GeneratedMSBuildEditorConfig.editorconfig
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.AssemblyInfoInputs.cache
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.AssemblyInfo.cs
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.csproj.CoreCompileInputs.cache
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDe.6226052F.Up2Date
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.dll
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\refint\EstadoDeVistasyTramites.Service.dll
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\EstadoDeVistasyTramites.Service.pdb
-D:\PROYECTOS IGJ 2024\EstadoDeVistasYTramitesAPI\EstadoDeVistasYTramitesAPI\TramiteVista.Service\obj\Debug\net8.0\ref\EstadoDeVistasyTramites.Service.dll
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/Connected Services/ServiceReference/ConnectedService.json
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasyTramites.Service.deps.json
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasyTramites.Service.dll
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasyTramites.Service.pdb
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.dll
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.pdb
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.csproj.AssemblyReference.cache
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.AssemblyInfoInputs.cache
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.AssemblyInfo.cs
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.csproj.CoreCompileInputs.cache
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDe.6226052F.Up2Date
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.dll
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/refint/EstadoDeVistasyTramites.Service.dll
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.pdb
+D:/PROYECTOS IGJ 2024/EstadoDeVistasYTramitesAPI/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/ref/EstadoDeVistasyTramites.Service.dll
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/Connected Services/ServiceReference/ConnectedService.json
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasyTramites.Service.deps.json
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasyTramites.Service.dll
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasyTramites.Service.pdb
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.dll
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.pdb
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.csproj.AssemblyReference.cache
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.AssemblyInfoInputs.cache
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.AssemblyInfo.cs
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.csproj.CoreCompileInputs.cache
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.sourcelink.json
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDe.6226052F.Up2Date
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.dll
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/refint/EstadoDeVistasyTramites.Service.dll
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.pdb
+C:/Users/jguerrer/source/repos/EstadoDeVistasYTramitesAPI/TramiteVista.Service/obj/Debug/net8.0/ref/EstadoDeVistasyTramites.Service.dll
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/bin/Debug/net8.0/Connected Services/ServiceReference/ConnectedService.json
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasyTramites.Service.deps.json
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasyTramites.Service.dll
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasyTramites.Service.pdb
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.dll
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/bin/Debug/net8.0/EstadoDeVistasYTramites.Model.pdb
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.csproj.AssemblyReference.cache
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.AssemblyInfoInputs.cache
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.AssemblyInfo.cs
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.csproj.CoreCompileInputs.cache
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.sourcelink.json
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/EstadoDe.6226052F.Up2Date
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.dll
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/refint/EstadoDeVistasyTramites.Service.dll
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/EstadoDeVistasyTramites.Service.pdb
+/Users/juanguerrero/RiderProjects/ApiVistaYTramites/TramiteVista.Service/obj/Debug/net8.0/ref/EstadoDeVistasyTramites.Service.dll
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\Connected Services\ServiceReference\ConnectedService.json
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasyTramites.Service.deps.json
 C:\Users\jguerrer\source\repos\EstadoDeVistasYTramitesAPI\TramiteVista.Service\bin\Debug\net8.0\EstadoDeVistasyTramites.Service.dll
