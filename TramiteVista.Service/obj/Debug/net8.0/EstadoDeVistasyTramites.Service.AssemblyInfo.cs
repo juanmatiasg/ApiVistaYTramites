@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstadoDeVistasyTramites.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7157d361612d7d27f7a7f19c45c2b545d1b8bede")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88cc704ccd9b68645d454defdf9b7a9fff0d6396")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstadoDeVistasyTramites.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstadoDeVistasyTramites.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
